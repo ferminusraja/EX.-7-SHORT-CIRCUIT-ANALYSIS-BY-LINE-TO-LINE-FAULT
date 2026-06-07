@@ -27,7 +27,11 @@ neglected.
 3. Let I o=0 and find fault current I 1= (E)/ (Zkk1+Z 2+I ) and I 2=-I. 
 4. Find fault MVA for the specified bus and print the calculated value. 
 5. Stop the execution.
-# CIRCUIT DIAGRAM: 
+# CIRCUIT DIAGRAM:
+<img width="171" height="413" alt="image" src="https://github.com/user-attachments/assets/1f03539f-fcbf-4e7f-a10a-e973e91a42fb" />
+
 # OUTPUT:
+<img width="922" height="393" alt="image" src="https://github.com/user-attachments/assets/7c13a9f8-b547-4aeb-9e37-3525e73b7eb0" />
+
 # RESULT:
 Thus short circuit analysis by line to line fault is performed in etap software and the output is verified.
